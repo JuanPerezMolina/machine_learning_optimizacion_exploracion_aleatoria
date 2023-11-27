@@ -3,7 +3,7 @@
 </h1>
 
 
-## ** **
+## **Búsquedas aleatorias de la mejor combinación y seleccion de hiper-parámetros**
 
 
 ## Table of Contents
